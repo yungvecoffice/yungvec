@@ -6,6 +6,6 @@
     <style type="text/css">.body { width: auto; }</style>
   </head>
   <body>
-    <iframe src="yungvec-entertainment-44985481.hubspotpagebuilder.com/sign-up-for-yungvec-updates"/>
+    <iframe src="yungvec-entertainment-44985481.hubspotpagebuilder.com/sign-up-for-yungvec-updates" title="yungvec updates signup" </iframe>
   </body>
 </html>
